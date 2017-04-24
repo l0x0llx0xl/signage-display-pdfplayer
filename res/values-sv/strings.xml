@@ -1,0 +1,126 @@
+<resources>
+    <string name="app_name">PDF-spelare</string>
+
+    <!-- Home Page -->
+    <string name="play">Spela upp</string>
+    <string name="compose">Skapa</string>
+    <string name="settings">Inställningar</string>
+
+    <!-- Compose -->
+    <string name="newlist">New</string>
+    <string name="management">Management</string>
+    <string name="addbackgroungmusic">Lägg bakgrundsmusik till bildspel?</string>
+    <string name="nodatainplaylist">Inga uppgifter i spellistan</string>
+    <string name="nodatainfolder">Inga uppgifter i mappen</string>
+    <string name="title_playlist">Spellista</string>
+    <string name="title_source">Källa</string>
+    <string name="overfilesselected">Över 500 filer valda</string>
+
+    <!-- Dialog -->
+    <string name="overwritetofile">Skriv över fil %d ?</string>
+    <string name="yes">Ja</string>
+    <string name="no">Nej</string>
+    <string name="continueprevious">Continue previous</string>
+    <string name="saveorabort">Spara eller avbryt?</string>
+    <string name="editordelete">Redigera eller ta bort?</string>
+    <string name="edit">Redigera</string>
+    <string name="delete">Ta bort</string>
+    <string name="pleasepluginusb">Koppla in USB-lagring</string>
+    <string name="selectusbstorage">Välj USB-lagring</string>
+
+    <!-- PlayList -->
+    <string name="file1">Fil 1</string>
+    <string name="file2">Fil 2</string>
+    <string name="file3">Fil 3</string>
+    <string name="file4">Fil 4</string>
+    <string name="file5">Fil 5</string>
+    <string name="file6">Fil 6</string>
+    <string name="file7">Fil 7</string>
+
+    <!-- Settings -->
+    <string name="storage">Förvaring</string>
+    <string name="internal">Intern lagring</string>
+    <string name="usb">USB-lagring</string>
+    <string name="sdcard">SD-kort</string>
+    <string name="transiteffect">Transit Effect</string>
+    <string name="repeat">Repeat</string>
+    <string name="mode">Mode</string>
+
+    <string name="repeatmodetitle">Upprepningsläge</string>
+    <string name="repeatonce">Upprepa en gång</string>
+    <string name="repeatall">Upprepa alla</string>
+
+    <string name="slideshoweffect">Bildspelseffekt</string>
+    <string name="slideshow_random">Slumpmässig</string>
+    <string name="slideshow_bounce">Studsa</string>
+    <string name="slideshow_fade_in_out">Tona in/ut</string>
+    <string name="slideshow_top_to_bottom">Uppifrån och ned</string>
+    <string name="slideshow_zoom">Zoom</string>
+    <string name="slideshow_left_to_right">Vänster till höger</string>
+    <string name="slideshow_right_to_left">Höger till vänster</string>
+    <string name="slideshow_fold">Vik</string>
+    <string name="slideshow_corner">Hörn</string>
+
+    <string name="effectduration">Effekt, varaktighet</string>
+    <string name="period_5">5s</string>
+    <string name="period_10">10s</string>
+    <string name="period_15">15s</string>
+    <string name="period_20">20s</string>
+
+    <string name="none">Ingen</string>
+
+    <!-- hint -->
+    <string name="hint_select">Välj</string>
+    <string name="hint_play">Spela upp</string>
+    <string name="hint_info">Info</string>
+    <string name="hint_toolbar">Verktygsfält</string>
+
+    <!-- info -->
+    <string name="filename">Filnamn:</string>
+    <string name="filesize">Filstorlek:</string>
+    <string name="duration">Varaktighet:</string>
+    <string name="title">Titel:</string>
+    <string name="album">Album:</string>
+    <string name="artist">Artist:</string>
+    <string name="bitrate">Bithastighet:</string>
+    <string name="resolution">Upplösning:</string>
+    <string name="mimetype">Typ:</string>
+    <string name="time">Tid:</string>
+
+    <!-- Common -->
+    <string name="playlist">Spellista</string>
+    <string name="select">Välj</string>
+    <string name="selectall">Markera allt</string>
+    <string name="addremove">Lägg till / ta bort</string>
+    <string name="deleteall">Radera allt</string>
+    <string name="titlesort">Sortera</string>
+    <string name="sort">Sortera</string>
+    <string name="save">Spara</string>
+    <string name="abort">Avbryt</string>
+    <string name="back">Bakåt</string>
+    <string name="dot">...</string>
+    <string name="returntotheprevious">Return to the previous</string>
+    <string name="savesuccess">Sparade</string>
+    <string name="deletesuccess">Raderade</string>
+    <string name="abortedit">Ångra redigera</string>
+    <string name="selectfilefrom">Välj pdf från?</string>
+    <string name="backgroundmusic">Bakgrundsmusik</string>
+    <string name="slideshow">Bildspel</string>
+    <string name="filenotsupport">Filen stöds inte</string>
+
+    <!-- Log file string -->
+    <string name="starttime">Starttid:</string>
+    <string name="endtime">Sluttid:</string>
+    <string name="playListno">Filnr.</string>
+    <string name="lastplayfilename">Senast spelat filnamn:</string>
+    <string name="lastbackgroundmusicfilename">Senaste filnamn för bakgrundsmusik:</string>
+    <string name="storagepath">Sökväg:</string>
+    <string name="repeatmode">Upprepningsläge:</string>
+    <string name="slideshoweffectlog">Bildspelseffekt:</string>
+    <string name="errorfilelistasbelow">Fillista med fel nedan:</string>
+    <string name="effectdurationsec">Effekt, varaktighet:</string>
+
+    <string name="sdcard_not_exits">Inget SD-kort.</string>
+
+    <string name="not_available">"Ej tillgängligt"</string>
+</resources>

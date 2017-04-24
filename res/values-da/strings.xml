@@ -1,0 +1,126 @@
+<resources>
+    <string name="app_name">PDF-afspiller</string>
+
+    <!-- Home Page -->
+    <string name="play">Afspil</string>
+    <string name="compose">Skriv</string>
+    <string name="settings">Opsætning</string>
+
+    <!-- Compose -->
+    <string name="newlist">New</string>
+    <string name="management">Management</string>
+    <string name="addbackgroungmusic">Tilføj baggrundsmusik til diasshowet?</string>
+    <string name="nodatainplaylist">Ingen data i afspilningslisten</string>
+    <string name="nodatainfolder">Ingen data i mappen</string>
+    <string name="title_playlist">Afspilningsliste</string>
+    <string name="title_source">Kilde</string>
+    <string name="overfilesselected">Over 500 filer valgt</string>
+
+    <!-- Dialog -->
+    <string name="overwritetofile">Overskriv fil %d ?</string>
+    <string name="yes">Ja</string>
+    <string name="no">Nej</string>
+    <string name="continueprevious">Continue previous</string>
+    <string name="saveorabort">Gem eller annuller?</string>
+    <string name="editordelete">Rediger eller slet?</string>
+    <string name="edit">﻿Rediger</string>
+    <string name="delete">Slet</string>
+    <string name="pleasepluginusb">Tilslut USB-lagerenhed</string>
+    <string name="selectusbstorage">Vælg USB-lagerenhed</string>
+
+    <!-- PlayList -->
+    <string name="file1">Fil 1</string>
+    <string name="file2">Fil 2</string>
+    <string name="file3">Fil 3</string>
+    <string name="file4">Fil 4</string>
+    <string name="file5">Fil 5</string>
+    <string name="file6">Fil 6</string>
+    <string name="file7">Fil 7</string>
+
+    <!-- Settings -->
+    <string name="storage">Lager</string>
+    <string name="internal">Internt lager</string>
+    <string name="usb">USB-lager</string>
+    <string name="sdcard">SD-kort</string>
+    <string name="transiteffect">Transit Effect</string>
+    <string name="repeat">Repeat</string>
+    <string name="mode">Mode</string>
+
+    <string name="repeatmodetitle">Gentagelsesfunktion</string>
+    <string name="repeatonce">Gentag én gang</string>
+    <string name="repeatall">Gentag alle</string>
+
+    <string name="slideshoweffect">Diasshoweffekt</string>
+    <string name="slideshow_random">Vilkårlig</string>
+    <string name="slideshow_bounce">Spring</string>
+    <string name="slideshow_fade_in_out">Fade ind/ud</string>
+    <string name="slideshow_top_to_bottom">Fra top til bund</string>
+    <string name="slideshow_zoom">Zoom</string>
+    <string name="slideshow_left_to_right">Venstre til højre</string>
+    <string name="slideshow_right_to_left">Højre til venstre</string>
+    <string name="slideshow_fold">Fold</string>
+    <string name="slideshow_corner">Hjørne</string>
+
+    <string name="effectduration">Effektvarighed</string>
+    <string name="period_5">5 sek.</string>
+    <string name="period_10">10 sek.</string>
+    <string name="period_15">15 sek.</string>
+    <string name="period_20">20 sek.</string>
+
+    <string name="none">Ingen</string>
+
+    <!-- hint -->
+    <string name="hint_select">Vælg</string>
+    <string name="hint_play">Afspil</string>
+    <string name="hint_info">Info</string>
+    <string name="hint_toolbar">Værktøjslinje</string>
+
+    <!-- info -->
+    <string name="filename">Filnavn:</string>
+    <string name="filesize">Filstørrelse:</string>
+    <string name="duration">Varighed:</string>
+    <string name="title">Titel:</string>
+    <string name="album">Album:</string>
+    <string name="artist">Kunstner:</string>
+    <string name="bitrate">Bithastighed:</string>
+    <string name="resolution">Opløsning:</string>
+    <string name="mimetype">Type:</string>
+    <string name="time">Tid:</string>
+
+    <!-- Common -->
+    <string name="playlist">Afspilningsliste</string>
+    <string name="select">Vælg</string>
+    <string name="selectall">Vælg alle</string>
+    <string name="addremove">Tilføj/Fjern</string>
+    <string name="deleteall">Slet alle</string>
+    <string name="titlesort">Sortér</string>
+    <string name="sort">Sortér</string>
+    <string name="save">Gem</string>
+    <string name="abort">Annuller</string>
+    <string name="back">Tilbage</string>
+    <string name="dot">...</string>
+    <string name="returntotheprevious">Return to the previous</string>
+    <string name="savesuccess">Gemt</string>
+    <string name="deletesuccess">Slettet</string>
+    <string name="abortedit">Annuller redigering</string>
+    <string name="selectfilefrom">Vælg pdf fra</string>
+    <string name="backgroundmusic">Baggrundsmusik</string>
+    <string name="slideshow">Diasshow</string>
+    <string name="filenotsupport">Filen understøttes ikke</string>
+
+    <!-- Log file string -->
+    <string name="starttime">Starttidspunkt:</string>
+    <string name="endtime">Sluttidspunkt:</string>
+    <string name="playListno">Filnummer:</string>
+    <string name="lastplayfilename">Navn på senest afspillede fil:</string>
+    <string name="lastbackgroundmusicfilename">Filnavn på senest afspillede baggrundsmusik:</string>
+    <string name="storagepath">Lagersti:</string>
+    <string name="repeatmode">Gentagelsesfunktion:</string>
+    <string name="slideshoweffectlog">Diasshoweffekt:</string>
+    <string name="errorfilelistasbelow">Fejl på fil(erne) på listen nedenfor:</string>
+    <string name="effectdurationsec">Effektvarighed:</string>
+
+    <string name="sdcard_not_exits">Der er intet SD-kort.</string>
+
+    <string name="not_available">"Ikke tilgængelig"</string>
+</resources>

@@ -1,0 +1,126 @@
+<resources>
+    <string name="app_name">PDF-Player</string>
+
+    <!-- Home Page -->
+    <string name="play">Wiedergeben</string>
+    <string name="compose">Komp.</string>
+    <string name="settings">Einstellungen</string>
+
+    <!-- Compose -->
+    <string name="newlist">New</string>
+    <string name="management">Management</string>
+    <string name="addbackgroungmusic">Hintergrundmusik zur Diaschau hinzufügen?</string>
+    <string name="nodatainplaylist">Keine Daten in der Wiedergabeliste</string>
+    <string name="nodatainfolder">Keine Daten im Ordner</string>
+    <string name="title_playlist">Wiedergabeliste</string>
+    <string name="title_source">Quelle</string>
+    <string name="overfilesselected">Mehr als 500 Dateien ausgewählt</string>
+
+    <!-- Dialog -->
+    <string name="overwritetofile">Datei %d überschreiben?</string>
+    <string name="yes">Ja</string>
+    <string name="no">Nein</string>
+    <string name="continueprevious">Continue previous</string>
+    <string name="saveorabort">Speichern oder abbrechen?</string>
+    <string name="editordelete">Bearbeiten oder löschen?</string>
+    <string name="edit">Bearbeiten</string>
+    <string name="delete">Löschen</string>
+    <string name="pleasepluginusb">Bitte USB-Speicher anschließen</string>
+    <string name="selectusbstorage">USB-Speicher wählen</string>
+
+    <!-- PlayList -->
+    <string name="file1">Datei 1</string>
+    <string name="file2">Datei 2</string>
+    <string name="file3">Datei 3</string>
+    <string name="file4">Datei 4</string>
+    <string name="file5">Datei 5</string>
+    <string name="file6">Datei 6</string>
+    <string name="file7">Datei 7</string>
+
+    <!-- Settings -->
+    <string name="storage">Speicher</string>
+    <string name="internal">Interner Speicher</string>
+    <string name="usb">USB-Speicher</string>
+    <string name="sdcard">SD-Karte</string>
+    <string name="transiteffect">Transit Effect</string>
+    <string name="repeat">Repeat</string>
+    <string name="mode">Mode</string>
+
+    <string name="repeatmodetitle">Wiederholungsmodus</string>
+    <string name="repeatonce">Einmal wiederholen</string>
+    <string name="repeatall">Alles wiederholen</string>
+
+    <string name="slideshoweffect">Diaschaueffekt</string>
+    <string name="slideshow_random">Zufällig</string>
+    <string name="slideshow_bounce">Springen</string>
+    <string name="slideshow_fade_in_out">Ein-/Ausblenden</string>
+    <string name="slideshow_top_to_bottom">Von oben nach unten</string>
+    <string name="slideshow_zoom">Zoom</string>
+    <string name="slideshow_left_to_right">Von links nach rechts</string>
+    <string name="slideshow_right_to_left">Von rechts nach links</string>
+    <string name="slideshow_fold">Falten</string>
+    <string name="slideshow_corner">Ecke</string>
+
+    <string name="effectduration">Effektdauer</string>
+    <string name="period_5">5 s</string>
+    <string name="period_10">10 s</string>
+    <string name="period_15">15 s</string>
+    <string name="period_20">20 s</string>
+
+    <string name="none">Ohne</string>
+
+    <!-- hint -->
+    <string name="hint_select">Wählen</string>
+    <string name="hint_play">Wiedergeben</string>
+    <string name="hint_info">Info</string>
+    <string name="hint_toolbar">Werkzeugleiste</string>
+
+    <!-- info -->
+    <string name="filename">Dateiname:</string>
+    <string name="filesize">Dateigröße:</string>
+    <string name="duration">Dauer:</string>
+    <string name="title">Titel:</string>
+    <string name="album">Album:</string>
+    <string name="artist">Künstler:</string>
+    <string name="bitrate">Bitrate:</string>
+    <string name="resolution">Auflösung:</string>
+    <string name="mimetype">Typ:</string>
+    <string name="time">Zeit:</string>
+
+    <!-- Common -->
+    <string name="playlist">Wiedergabeliste</string>
+    <string name="select">Wählen</string>
+    <string name="selectall">Alles wählen</string>
+    <string name="addremove">Hinzufügen/entfernen</string>
+    <string name="deleteall">Alles löschen</string>
+    <string name="titlesort">Anordnen</string>
+    <string name="sort">Anordnen</string>
+    <string name="save">Speichern</string>
+    <string name="abort">Abbrechen</string>
+    <string name="back">Zurück</string>
+    <string name="dot">...</string>
+    <string name="returntotheprevious">Return to the previous</string>
+    <string name="savesuccess">Erfolgreich gespeichert</string>
+    <string name="deletesuccess">Erfolgreich gelöscht</string>
+    <string name="abortedit">Bearbeiten abbrechen</string>
+    <string name="selectfilefrom">PDF wählen von</string>
+    <string name="backgroundmusic">Hintergrundmusik</string>
+    <string name="slideshow">Diaschau</string>
+    <string name="filenotsupport">Datei nicht unterstützt</string>
+
+    <!-- Log file string -->
+    <string name="starttime">Startzeit:</string>
+    <string name="endtime">Endzeit:</string>
+    <string name="playListno">Dateinummer:</string>
+    <string name="lastplayfilename">Name der zuletzt wiedergegeben Datei:</string>
+    <string name="lastbackgroundmusicfilename">Name der letzten Hintergrundmusikdatei:</string>
+    <string name="storagepath">Speicherpfad:</string>
+    <string name="repeatmode">Wiederholungsmodus:</string>
+    <string name="slideshoweffectlog">Diaschaueffekt:</string>
+    <string name="errorfilelistasbelow">Fehlerdateiliste wie nachstehend:</string>
+    <string name="effectdurationsec">Effektdauer:</string>
+
+    <string name="sdcard_not_exits">Keine SD-Karte</string>
+
+    <string name="not_available">"Nicht verfügbar"</string>
+</resources>
