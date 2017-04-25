@@ -1,0 +1,126 @@
+<resources>
+    <string name="app_name">PDF Player</string>
+
+    <!-- Home Page -->
+    <string name="play">Toista</string>
+    <string name="compose">Luo</string>
+    <string name="settings">Asetukset</string>
+
+    <!-- Compose -->
+    <string name="newlist">New</string>
+    <string name="management">Management</string>
+    <string name="addbackgroungmusic">Lisää taustamusiikki diaesitykseen?</string>
+    <string name="nodatainplaylist">Soittolistassa ei tietoja</string>
+    <string name="nodatainfolder">Kansiossa ei tietoja</string>
+    <string name="title_playlist">Soittolista</string>
+    <string name="title_source">Lähde</string>
+    <string name="overfilesselected">Yli 500 tiedostoa valittu</string>
+
+    <!-- Dialog -->
+    <string name="overwritetofile">Korvataanko %d-tiedosto?</string>
+    <string name="yes">Kyllä</string>
+    <string name="no">Ei</string>
+    <string name="continueprevious">Continue previous</string>
+    <string name="saveorabort">Tallennetaanko vai keskeytetäänkö?</string>
+    <string name="editordelete">Muokataanko vai poistetaanko?</string>
+    <string name="edit">Muokkaa</string>
+    <string name="delete">Poista</string>
+    <string name="pleasepluginusb">Liitä USB-tallennustila</string>
+    <string name="selectusbstorage">Valitse USB-tallennustila</string>
+
+    <!-- PlayList -->
+    <string name="file1">1 tiedosto</string>
+    <string name="file2">2 tiedosto</string>
+    <string name="file3">3 tiedosto</string>
+    <string name="file4">4 tiedosto</string>
+    <string name="file5">5 tiedosto</string>
+    <string name="file6">6 tiedosto</string>
+    <string name="file7">7 tiedosto</string>
+
+    <!-- Settings -->
+    <string name="storage">Tallennustila</string>
+    <string name="internal">Sisäinen tallennustila</string>
+    <string name="usb">USB-tallennustila</string>
+    <string name="sdcard">SD-kortti</string>
+    <string name="transiteffect">Transit Effect</string>
+    <string name="repeat">Repeat</string>
+    <string name="mode">Mode</string>
+
+    <string name="repeatmodetitle">Uudelleentoistotila</string>
+    <string name="repeatonce">Uudelleentoista kerran</string>
+    <string name="repeatall">Toista kaikki</string>
+
+    <string name="slideshoweffect">Diaesitystehoste</string>
+    <string name="slideshow_random">Satunnainen</string>
+    <string name="slideshow_bounce">Palauta toimittamaton viesti</string>
+    <string name="slideshow_fade_in_out">alku- ja loppuhäivitys</string>
+    <string name="slideshow_top_to_bottom">Ylhäältä alas</string>
+    <string name="slideshow_zoom">Zoomi</string>
+    <string name="slideshow_left_to_right">Vasemmalta oikealle</string>
+    <string name="slideshow_right_to_left">Oikealta vasemmalle</string>
+    <string name="slideshow_fold">Taita</string>
+    <string name="slideshow_corner">Kulma</string>
+
+    <string name="effectduration">Tehosteen kesto</string>
+    <string name="period_5">5 s</string>
+    <string name="period_10">10 s</string>
+    <string name="period_15">15 s</string>
+    <string name="period_20">20 s</string>
+
+    <string name="none">Ei mitään</string>
+
+    <!-- hint -->
+    <string name="hint_select">Valitse</string>
+    <string name="hint_play">Toista</string>
+    <string name="hint_info">Info </string>
+    <string name="hint_toolbar">Työkalurivi</string>
+
+    <!-- info -->
+    <string name="filename">Tiedostonimi:</string>
+    <string name="filesize">Tiedostokoko:</string>
+    <string name="duration">Kesto:</string>
+    <string name="title">Otsikko:</string>
+    <string name="album">Albumi:</string>
+    <string name="artist">Esiintyjä:</string>
+    <string name="bitrate">Siirtonopeus:</string>
+    <string name="resolution">Tarkkuus:</string>
+    <string name="mimetype">Tyyppi:</string>
+    <string name="time">Aika:</string>
+
+    <!-- Common -->
+    <string name="playlist">Soittolista</string>
+    <string name="select">Valitse</string>
+    <string name="selectall">Valitse kaikki</string>
+    <string name="addremove">Lisää/Poista</string>
+    <string name="deleteall">Poista kaikki</string>
+    <string name="titlesort">Lajittele</string>
+    <string name="sort">Lajittele</string>
+    <string name="save">Tallenna</string>
+    <string name="abort">Keskeytä</string>
+    <string name="back">Takaisin</string>
+    <string name="dot">...</string>
+    <string name="returntotheprevious">Return to the previous</string>
+    <string name="savesuccess">Tallennus onnistui</string>
+    <string name="deletesuccess">Poistaminen onnistui</string>
+    <string name="abortedit">Keskeytä muokkaaminen</string>
+    <string name="selectfilefrom">Valitse PDF kohteesta</string>
+    <string name="backgroundmusic">Taustamusiikki</string>
+    <string name="slideshow">Diaesitys</string>
+    <string name="filenotsupport">Tiedosto ei tuettu</string>
+
+    <!-- Log file string -->
+    <string name="starttime">Alkamisaika:</string>
+    <string name="endtime">Lopetusaika:</string>
+    <string name="playListno">Tiedoston nro:</string>
+    <string name="lastplayfilename">Viimeksi toistetun tiedoston nimi:</string>
+    <string name="lastbackgroundmusicfilename">Taustamusiikin viimeinen tiedostonimi:</string>
+    <string name="storagepath">Tallennuspolku:</string>
+    <string name="repeatmode">Uudelleentoistotila:</string>
+    <string name="slideshoweffectlog">Diaesitystehoste:</string>
+    <string name="errorfilelistasbelow">Virhetiedostoluettelo seuraavasti:</string>
+    <string name="effectdurationsec">Tehosteen kesto:</string>
+
+    <string name="sdcard_not_exits">Ei SD-korttia.</string>
+
+    <string name="not_available">"Ei käytettävissä"</string>
+</resources>
