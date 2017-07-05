@@ -1,6 +1,6 @@
 Signage Display Pdf Player Copyright (C) <2017> TPV Technology
 
-This sinage display pdf player uses MuPDF library as the pdf render. Full screen display a pdf file. To compile this project, you can use Android Studio. MuPDF official website https://mupdf.com/
+This signage display pdf player uses MuPDF library as the pdf render. Full screen display a pdf file. To compile this project, you can use Android Studio. MuPDF official website https://mupdf.com/
 
 A demo apk is attached. To use this apk, please put your pdf files in /root/tpv/pdf/.
 You can also specify the duration to change page.
